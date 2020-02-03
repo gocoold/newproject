@@ -11,6 +11,7 @@ public class loginTest {
 	{
 		
 		System.out.println("google");
+		System.out.println("google new new test");
 	}
 
 }
